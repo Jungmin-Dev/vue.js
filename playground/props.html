@@ -9,7 +9,7 @@
   <body>
     <div id="app">
       <app-header v-bind:propsdata="message"></app-header>
-      <app-content v-bind:propsdata="message2"></app-content>
+      <app-content v-bind:propsdata="num"></app-content>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
     <script>
@@ -30,7 +30,7 @@
         },
         data: {
           message: "hi",
-          message2: "10",
+          num: "10",
         },
       });
     </script>
