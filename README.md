@@ -24,3 +24,8 @@
 7. Auto Close Tag : 태그를 자동으로 닫음
 
 8. Atom Keymap : Atom 단축키 설정
+
+
+## 단축키
+Cril + | : 패널 닫기/열기
+Ctrl + d : 같은 텍스트 선택 단축키
