@@ -4,8 +4,11 @@
 
 ## 프로그램 설치
 1. Chrome 설치
+
 2. Visual Studio Code 설치
+
 3. node.js 설치
+
 4. vue.js dev tools 설치
 
 ## VSCode 플러그인 설치
@@ -28,4 +31,5 @@
 
 ## 단축키
 1. Cril + | : 패널 닫기/열기
+
 2. Ctrl + d : 같은 텍스트 선택 단축키
